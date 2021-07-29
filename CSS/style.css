@@ -1,0 +1,23 @@
+.first{
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+}
+.second{
+    height: 20px;
+    width: 20px;
+}
+.newly{
+    background-color: rgb(233, 89, 37);
+}
+.yourly{
+    height: 400px;
+}
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
